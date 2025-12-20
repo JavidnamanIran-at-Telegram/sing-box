@@ -4,7 +4,7 @@
   "domain_strategy": "ipv4_only",
   "server": "api.kermanshahi.org",
   "server_port": 0,
-  "server_ports": "33500-52000",   // <-- اینجا : رو به - تغییر بده
+  "server_ports": "33500-52000",  
   "hop_interval": "15m0s",
   "obfs": {
     "type": "salamander",
@@ -33,7 +33,7 @@
   "domain_strategy": "ipv6_only",
   "server": "api.kermanshahi.org",
   "server_port": 0,
-  "server_ports": "33500-52000",   // <-- اینجا هم : رو به - تغییر بده
+  "server_ports": "33500-52000",   
   "hop_interval": "15m0s",
   "obfs": {
     "type": "salamander",
